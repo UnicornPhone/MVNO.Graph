@@ -1,0 +1,8 @@
+- https://en.wikipedia.org/wiki/Mobile_virtual_network_operator
+- https://en.wikipedia.org/wiki/Mobile_virtual_network_enabler
+- https://en.wikipedia.org/wiki/Wi-Fi_calling
+- https://en.wikipedia.org/wiki/Competitive_local_exchange_carrier
+- https://en.wikipedia.org/wiki/List_of_mobile_network_operators_in_Europe
+- https://en.wikipedia.org/wiki/List_of_Turkey_mobile_virtual_network_operators
+- https://en.wikipedia.org/wiki/List_of_mobile_virtual_network_operators_in_the_United_Kingdom
+- https://en.wikipedia.org/wiki/List_of_mobile_virtual_network_operators_in_the_United_States
